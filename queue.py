@@ -1,4 +1,4 @@
-# A class to implement the queue data structure using python list
+# A class that implements the queue data structure using python list
 
 class Queue:
     # constructor initiating an empty list as queue
