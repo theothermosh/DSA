@@ -26,5 +26,3 @@ def sum(n):
         return n
     else:
         return n + sum(n - 1) # Recursion call
-
-print(sum(-1))
